@@ -1,6 +1,6 @@
 //Height of Edges of a Binary Tree
 import java.util.*;  
-public class BinaryNode6 
+public class HeightOfEdges
 { 
     static class Node
 { 
